@@ -1,2 +1,2 @@
 # GCP
-Coursera course
+**Coursera course**
